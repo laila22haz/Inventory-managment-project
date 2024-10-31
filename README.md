@@ -58,7 +58,7 @@ To run the development environment, follow the steps here:
     cd /inventory_manager/frontend
     npm run dev
 ```
-Alternatively, you can vist [link to production server ](http://localhost:8000)
+Alternatively, you can vist [Run](http://localhost:8000)
 
 
 ## License
